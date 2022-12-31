@@ -16,3 +16,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: -.3em;
+  color: whitesmoke;
+}
+
+p {
+  color: goldenrod;
+}
