@@ -4,9 +4,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h1>
           Darrick Develops
-        </p>
+        </h1>
+        <p>website coming soon</p>
       </header>
     </div>
   );
